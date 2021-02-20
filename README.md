@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Natã">
 
 <p align="left"> 
-  Olá meu nome é Natã, sou desenvolvedor de <strong>Back-End</strong> e <strong>Mobile</strong>. Estou sempre a procura de me aperfeiçoar cada vez mais meu conhecimento para criar coisas mais complexas.
+  Olá meu nome é Natã, sou desenvolvedor <strong>Back-End</strong> e <strong>Mobile</strong>. Estou sempre a procura de me aperfeiçoar cada vez mais meu conhecimento para criar coisas mais complexas.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, C#, PHP.</strong>
 </p>
 
 <p align="left">
