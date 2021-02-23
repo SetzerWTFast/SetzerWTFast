@@ -5,14 +5,6 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, C#, PHP.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCODE, PhotoShop, Visual Studio, Git and GitHub.</strong>
-</p>
-
-<p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
 </p>
 
