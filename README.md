@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador do Natã">
 
 <p align="left"> 
-  Olá meu nome é Natã, sou desenvolvedor <strong>Back-End</strong> e <strong>Mobile</strong>. Estou sempre a procura de me aperfeiçoar cada vez mais meu conhecimento para criar coisas mais complexas.
-</p>
+  Hello my name is Nathan, I am developer <strong>Back-End</strong> and <strong>Mobile</strong>. I’m always looking to improve my knowledge more and more to create more complex things.
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+  💌 If you wish to carry out a project with me (or chat), please feel free to send me a message: ⤵️
 </p>
 
 <p align="left">
